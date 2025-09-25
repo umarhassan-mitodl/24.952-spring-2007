@@ -1,0 +1,45 @@
+{
+  "term": "Spring",
+  "year": "2007",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Linguistics",
+      "Syntax"
+    ]
+  ],
+  "legacy_uid": "4ff93d44-c3ff-2ac3-4092-17128a9440b2",
+  "instructors": {
+    "content": [
+      "567d4efe-e1d9-35f7-71dd-89796fa225e3",
+      "510ea277-a083-17fe-df3c-6a838dceb981"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "146c3721-54d5-0778-1cec-f1e7b7248d6c",
+    "website": "24-952-advanced-syntax-spring-2007"
+  },
+  "course_title": "Advanced Syntax",
+  "course_description": "This course is a continuation of 24.951. This semester the course topics of interest include movement, phrase structure, and the architecture of the grammar.\n",
+  "department_numbers": [
+    "24"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "24.952",
+  "course_image_thumbnail": {
+    "content": "66320d88-c116-c604-bd05-c890c2d77437",
+    "website": "24-952-advanced-syntax-spring-2007"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments"
+  ],
+  "site_uid": "0c55ba19-585e-4922-8135-e2a4c7229a58",
+  "site_short_id": "24.952-spring-2007",
+  "site_url_path": "courses/24-952-advanced-syntax-spring-2007",
+  "title": "Course Metadata"
+}
