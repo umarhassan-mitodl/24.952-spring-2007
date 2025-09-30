@@ -24,6 +24,7 @@
     "website": "24-952-advanced-syntax-spring-2007"
   },
   "course_title": "Advanced Syntax",
+  "hide_download": true,
   "course_description": "This course is a continuation of 24.951. This semester the course topics of interest include movement, phrase structure, and the architecture of the grammar.\n",
   "department_numbers": [
     "24"
@@ -34,6 +35,7 @@
     "content": "66320d88-c116-c604-bd05-c890c2d77437",
     "website": "24-952-advanced-syntax-spring-2007"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Written Assignments"

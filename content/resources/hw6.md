@@ -4,6 +4,8 @@ description: 'Homework: Phases and Agree.'
 file: /courses/24-952-advanced-syntax-spring-2007/91008c5d06598ce0ebbbd26ba435d4e6_hw6.pdf
 file_size: 79046
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: 'Homework # 5: Superiority.'
 file: /courses/24-952-advanced-syntax-spring-2007/e28373a1b49f589503d792f22e31aecc_hw5.pdf
 file_size: 93851
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

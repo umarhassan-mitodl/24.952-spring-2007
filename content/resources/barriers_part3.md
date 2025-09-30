@@ -4,6 +4,8 @@ description: 'Lecture notes about Wh-movement: Islands, barriers and successive-
 file: /courses/24-952-advanced-syntax-spring-2007/1e0b264ed8769a95110a22611ecf58a9_barriers_part3.pdf
 file_size: 177160
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
